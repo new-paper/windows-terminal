@@ -1,12 +1,12 @@
 {
     "name": "Newpaper Light",
 
-    "foreground": "#2B2B2B",
+    "foreground": "#2F2A3D",
     "background": "#F1F3F2",
     "cursorColor": "#14A9E2",
     "selectionBackground": "#0087AF",
 
-    "black": "#2B2B2B",
+    "black": "#2F2A3D",
     "red": "#AF0000",
     "green": "#008700",
     "yellow": "#AF5F00",
